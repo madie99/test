@@ -6,5 +6,8 @@ public class calculator {
         this.add_me_to_x=add_me_to_x;
 
     }
+    public int sub (int z){
+        return x-z;
+    }
     
 }
